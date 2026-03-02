@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Merhaba, ben Croccoder  
 
-<!--
-**Croccoder-Emre/Croccoder-Emre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧠 Kısa Hakkımda  
+Linux sistemleri, açık kaynak yazılım ve siber güvenlik alanlarına ilgi duyan bir geliştiriciyim. Pardus ve diğer özgür yazılım projelerine katkı sağlamak, kendi çapımda yeni projeler üretmek benim hedeflerimdir. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Ne Üzerinde Çalışıyorum?  
+- 🐧 Linux (özellikle Pardus) sistem geliştirme ve optimizasyon  
+- 🔐 Siber güvenlik araştırmaları ve zafiyet analizi  
+- 📦 Kullanıcı deneyimini iyileştiren araçlar ve script’ler  
+- 📚 Teknik dökümantasyon ve eğitim kaynakları
+
+
+
+---
+
+## 📫 İletişim  
+- 🔗 GitHub: https://github.com/Croccoder-Emre/ (örnek referans profili)  
+- ✉️ E-posta: ekilicarslan016@gmail.com
