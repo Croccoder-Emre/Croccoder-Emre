@@ -16,5 +16,5 @@ Linux sistemleri, açık kaynak yazılım ve siber güvenlik alanlarına ilgi du
 ---
 
 ## 📫 İletişim  
-- 🔗 GitHub: https://github.com/Croccoder-Emre/ (örnek referans profili)  
+- 🔗 GitHub: https://github.com/Croccoder-Emre/  
 - ✉️ E-posta: ekilicarslan016@gmail.com
